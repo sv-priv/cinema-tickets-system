@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\181095\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Administrator\source\repos\181095\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Administrator\source\repos\181095\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Administrator\source\repos\181095\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Administrator\source\repos\181095\Service\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Administrator\source\repos\181095\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Administrator\source\repos\181095\Service\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Administrator\source\repos\181095\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\181095\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\181095\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\181095\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\181095\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\Administrator\source\repos\181095\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Administrator\source\repos\181095\Service\obj\Debug\netcoreapp3.1\Service.pdb
